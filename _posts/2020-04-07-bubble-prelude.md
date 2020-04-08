@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Bubble - Prelude (Earth)
+author: Tulcha Siúil
 permalink: bubble-prelude
 categories: bubble
 ---
