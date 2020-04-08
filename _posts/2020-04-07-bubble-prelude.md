@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Bubble - Prelude (Earth)
+permalink: bubble-prelude
 categories: bubble
 ---
 
